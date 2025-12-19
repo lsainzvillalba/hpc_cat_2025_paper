@@ -3,11 +3,11 @@ This repository contains Jupyter Notebooks and .py code used in the data analysi
 
 
 ## Check preprint BiorXiv
+[
 
-
-Link
+Link](https://www.biorxiv.org/content/biorxiv/early/2025/12/03/2025.12.01.690977.full.pdf)
 
 ## Citation
 
-Link
+Sainz Villalba, L., Calangiu, I., Boehringer, R., Mante, V., & Grewe, B. F. (2025). Category learning disentangles representation of trial events in hippocampus CA1. bioRxiv, 2025-12.
 
