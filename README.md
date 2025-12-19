@@ -3,9 +3,7 @@ This repository contains Jupyter Notebooks and .py code used in the data analysi
 
 
 ## Check preprint BiorXiv
-[
-
-Link](https://www.biorxiv.org/content/biorxiv/early/2025/12/03/2025.12.01.690977.full.pdf)
+https://www.biorxiv.org/content/biorxiv/early/2025/12/03/2025.12.01.690977.full.pdf
 
 ## Citation
 
