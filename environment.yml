@@ -1,0 +1,11 @@
+name: hpc_cat
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - spyder=4
+  - caiman
+  - jupyterlab
+  - pyntcloud
+prefix: /home/lsainz/anaconda3/envs/hpc_cat
