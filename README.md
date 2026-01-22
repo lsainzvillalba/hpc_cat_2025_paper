@@ -10,7 +10,7 @@ https://www.biorxiv.org/content/biorxiv/early/2025/12/03/2025.12.01.690977.full.
 Sainz Villalba, L., Calangiu, I., Boehringer, R., Mante, V., & Grewe, B. F. (2025). Category learning disentangles representation of trial events in hippocampus CA1. bioRxiv, 2025-12.
 
 ## Python dependencies 
-# conda environment yml
+### conda environment yml
 environment.yml
-# pip list dependencies
+### pip list dependencies
 requirements.txt
