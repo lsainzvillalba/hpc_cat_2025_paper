@@ -3,7 +3,7 @@
 """
 Created on Fri Dec 19 16:08:17 2025
 
-@author: lsainz
+@author: Laura Sainz Villalba
 """
 from .training import *
 from .logreg import Logreg_coefs
